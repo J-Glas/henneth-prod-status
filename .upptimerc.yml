@@ -1,6 +1,6 @@
 # Change these first
-owner: dein-github-username
-repo: uptime-monitor # Muss exakt matchen mit deinem Repo-Namen
+owner: J-Glas
+repo: henneth-prod-status # Muss exakt matchen mit deinem Repo-Namen
 
 sites:
   - name: Henneth SFTP
