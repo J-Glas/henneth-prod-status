@@ -1,6 +1,5 @@
-# Change these first
 owner: J-Glas
-repo: henneth-prod-status # Muss exakt matchen mit deinem Repo-Namen
+repo: henneth-prod-status
 
 sites:
   - name: Henneth SFTP
@@ -11,18 +10,17 @@ sites:
     url: https://sync.henneth.de
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # cname: demo.upptime.js.org
+  baseUrl: /henneth-prod-status
+  
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Henneth System Status
   introTitle: "**Henneth Prod** Status Overview"
   introMessage: Echtzeit-Monitoring der Infrastruktur.
   navbar:
     - title: Status
-      href: /
+      href: /henneth-prod-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 # Setup scheduled runs (every 5 minutes)
-# Default is every 5 minutes
 user-agent: upptime
