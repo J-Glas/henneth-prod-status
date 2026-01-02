@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sftp.henneth.de.ico",
     "slug": "henneth-sftp",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "49.55%",
+    "uptimeDay": "39.07%",
+    "uptimeWeek": "49.55%",
+    "uptimeMonth": "49.55%",
+    "uptimeYear": "49.55%",
     "time": 1511,
-    "timeDay": 1511,
+    "timeDay": 0,
     "timeWeek": 1511,
     "timeMonth": 1511,
     "timeYear": 1511,
     "dailyMinutesDown": {
-      "2026-01-01": 1
+      "2026-01-02": 120,
+      "2026-01-01": 757
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.henneth.de.ico",
     "slug": "henneth-photos",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "49.58%",
+    "uptimeDay": "39.11%",
+    "uptimeWeek": "49.58%",
+    "uptimeMonth": "49.58%",
+    "uptimeYear": "49.58%",
     "time": 1224,
-    "timeDay": 1224,
+    "timeDay": 0,
     "timeWeek": 1224,
     "timeMonth": 1224,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2026-01-01": 1
+      "2026-01-02": 120,
+      "2026-01-01": 757
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sync.henneth.de.ico",
     "slug": "henneth-sync",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "49.61%",
+    "uptimeDay": "39.14%",
+    "uptimeWeek": "49.61%",
+    "uptimeMonth": "49.61%",
+    "uptimeYear": "49.61%",
     "time": 1443,
-    "timeDay": 1443,
+    "timeDay": 0,
     "timeWeek": 1443,
     "timeMonth": 1443,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2026-01-01": 0
+      "2026-01-02": 120,
+      "2026-01-01": 756
     }
   }
 ]
